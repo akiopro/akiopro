@@ -34,11 +34,11 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Web3.js-informational?style=flat&logo=web3&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Terra.js-informational?style=flat&logo=terra&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Contract-SmartContract-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Build-DApp-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Build-NFTmarketplace-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Build-MobileWallet-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-
+![](https://img.shields.io/badge/Contract-SmartContract-informational?style=flat&logo=smartcontract&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Build-DApp-informational?style=flat&logo=dApp&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Build-NFTmarketplace-informational?style=flat&logo=NFT&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Build-MobileWallet-informational?style=flat&logo=metaverse&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Build-Metaverse-informational?style=flat&logo=metaverse&logoColor=white&color=3bac3a)
 
 #### Web & Mobile Development
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
