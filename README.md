@@ -1,8 +1,8 @@
 ### Hey Everyone 👋
 
-Hi. I'm a Full-Stack developer who likes to work with Blockchain(Ethereum, Binance, Solana || Solidity, Rust), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest), Python(Django, Flask) among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
+Hi. I'm a Full-Stack blockchain developer who likes to work with Blockchain(Ethereum, Terra, Binance, Solana || Solidity, Rust, Web3.js, Terra.js), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest), 3D Game Engine(Unity, Unreal Engine, Three.js) among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile DApps.
 
-Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi DApp and NFT marketplace development stack.
+Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi, NFT marketplace and Metaverse development stack.
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
